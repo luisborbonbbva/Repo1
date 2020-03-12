@@ -22,7 +22,10 @@ public class main{
 		System.out.println("Metodo de la rama 10");
 	}
 	
-	public void saludoRomaOnce(){
+	public void saludoRamaOnce(){
 		System.out.println("Metodo de la rama 11");
+	}
+	public void saludoRamaOnce2(){
+		System.out.println("Metodo de la rama 11, modificado");
 	}
 }
