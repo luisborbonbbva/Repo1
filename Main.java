@@ -15,4 +15,7 @@ public class main{
 		System.out.println("Metodo de la rama 3");
 		}
 	}
+	public void saludoRamaNueva(){
+		System.out.println("Metodo de la rama 9");
+	}
 }
