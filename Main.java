@@ -20,5 +20,10 @@ public class main{
 	}
 	public void saludoRamaDiez(){
 		System.out.println("Metodo de la rama 10");
+		
+	public void saludoramaveinte(){
+		System.out.println("Metodo de rama veinte");	
+		
+		
 	}
 }
